@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer components {
+  .input {
+    @apply border px-1 py-0.5 block;
+  }
+}
